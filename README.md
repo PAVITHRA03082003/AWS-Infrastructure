@@ -10,8 +10,11 @@ Copy
 Edit
 AWS-Infrastructure-Projects/
 ├── ASG-autoscaling-groups/
+
 │   ├── ASG.yaml
+
 │   └── Auto-scaling-groups.pdf
+
 ├── README.md
 
 **Projects Included**
